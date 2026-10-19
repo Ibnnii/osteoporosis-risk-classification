@@ -27,8 +27,8 @@ Ibni Faiq Athallah, Marrylinteri Istonigtyas, Irawan (Universitas Dinamika Bangs
 **Locally:**
 
 ```bash
-git clone https://github.com/<username>/<repository>.git
-cd <repository>
+git clone https://github.com/Ibnnii/osteoporosis-risk-classification.git
+cd osteoporosis-risk-classification
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
