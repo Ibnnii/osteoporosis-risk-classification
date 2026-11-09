@@ -1,7 +1,7 @@
-numpy
-pandas
-scikit-learn
-xgboost
-shap
-matplotlib
+numpy==2.4.6
+pandas==2.2.3
+scikit-learn==1.6.1
+xgboost==3.4.1
+shap==0.54.1
+matplotlib==3.10.0
 kagglehub
